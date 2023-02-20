@@ -1,0 +1,122 @@
+@media only screen and (max-device-width:500px){
+
+    button{
+        height: 50px;
+
+    }
+    h1{
+        text-align: center;
+    }
+
+    p{
+        font-size: 24px;
+    }
+   
+    .contet-conteiner{
+        width: 96vw;
+        max-width: 96vw;
+        
+    }
+
+    .div-section-hero {
+        width: 100%;
+        margin-bottom: 1rem;
+        margin-top: 12px;
+        margin-bottom: 30px;
+    }
+    .nas-navegacao{
+        width: 100vw;
+    }
+
+    .links-navegacao{
+        display: none;
+    }
+
+    .titulo-navegacao{
+        font-size: 34px;
+    }
+
+    .hero-info-title{
+        font-size: 56px;
+    }
+
+    .section-hero{
+        height: 86vh;
+        margin-top: 12px;
+    }
+    .section-abilities{
+        text-align: center;
+    }
+    .hero-info-text{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .hero-info{
+        width: 100%;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hero-info-subtitle{
+        max-width: 70%;
+    }
+
+    .social-imgs {
+        width: 46px;
+        cursor: pointer;
+    }
+    .section-portfolio-card{
+        width: 90%;
+        
+    }
+    .hero-info-img {
+        width: 34vw;        
+    }
+
+    .section-portfolio-card{
+        height: auto;
+    }
+    .section-portfolio{
+        justify-content: center;
+        align-items: center
+    }
+
+    .abilities-cards-conteiner{
+        grid-template-columns: auto;
+        margin: 12px 0;
+    }
+
+    .section-experiences-dard{
+        width: 90vw;
+        height: auto;
+    }
+
+    .section-portfolio-grid{
+        gap: 36px;
+        grid-template-columns: auto;
+        
+    }
+
+    
+    .footer-content{
+        width: 94vw;
+    }
+
+    .section-abilities{
+        align-self: start;
+    }
+    .abilities-cards{
+        width: 80vw;
+    }
+
+    .footer-content-icon{
+        justify-content: space-between;
+    }
+
+}
